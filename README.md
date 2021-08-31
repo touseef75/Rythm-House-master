@@ -3,6 +3,6 @@
 
 #### They have the largest tape collection one can find ranging from Motion Picture Soundtracks to Rock 'n Roll. Besides music, one can find a number of music related magazines on sale. While some magazines are Indian, most of them are Air Mailed from the US and include top magazines like Guitar Legends and Total Guitar. 
 
-### [Live Demo](https://faiezwaseem.github.io/Rythm-House/)
+### [Live Demo](https://touseef75.github.io/Rythm-House-master/)
 
 ## NOTE: THIS IS JUST A UI / EXAMPLE SITE
